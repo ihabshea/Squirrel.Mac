@@ -187,7 +187,7 @@ detailed below:
 			"updateTo": {
 				"version": "1.2.1",
 				"pub_date": "2013-09-18T12:29:53+01:00",
-				"notes": "Theses are some release notes innit",
+				"notes": "These are some release notes innit",
 				"name": "1.2.1",
 				"url": "https://mycompany.example.com/myapp/releases/myrelease"
 			}
